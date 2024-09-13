@@ -11,8 +11,8 @@
 ### [I] = In Review
 
 # Proposal List
-| Status        | ID           | Name  |
-| ------------- |:-------------:| -----:|
+| Status| ID  | Name  |
+| :---: |:---:| :---:|
 | [A]     | [P0](https://nobodyteam.com/archive/proposals/proposalsarchive/P0.pdf) | ["Proposal Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P0.pdf) |
 | [A]     | [P1](https://nobodyteam.com/archive/proposals/proposalsarchive/P1.pdf) | ["Proposal Ruleset Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P1.pdf) |
 | [A]     | [P2](https://nobodyteam.com/archive/proposals/proposalsarchive/P0.pdf) | ["Operatiomal Transparency Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P2.pdf) |
