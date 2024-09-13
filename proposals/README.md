@@ -12,7 +12,7 @@
 
 # Proposal List
 
-> [NOTE]
+> [DISCLAIMER]
 > Proposal additions have have a small delay between being submitted and appearing in the archive. If you were expecting a new proposal to be present, it should appear in about 30 minutes to two hours.
 
 | Status| ID  | Name  |
