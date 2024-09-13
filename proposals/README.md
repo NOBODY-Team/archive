@@ -10,6 +10,9 @@
 ### [C] = Under Consideration
 ### [I] = In Review
 
+> [!NOTE]
+> Proposal additions have have a small delay between being submitted and appearing in the archive. If you were expecting a new proposal to be present, come back in 30m-2h
+
 # Proposal List
 
 | Status| ID  | Name  |
