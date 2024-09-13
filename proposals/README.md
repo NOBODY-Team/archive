@@ -22,4 +22,4 @@
 | [A]     | [P1](https://nobodyteam.com/archive/proposals/proposalsarchive/P1.pdf) | ["Proposal Ruleset Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P1.pdf) |
 | [A]     | [P2](https://nobodyteam.com/archive/proposals/proposalsarchive/P2.pdf) | ["Operational Transparency Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P2.pdf) |
 | [A]     | [P3](https://nobodyteam.com/archive/proposals/proposalsarchive/P3.pdf) | ["Financial Transparency Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P3.pdf) |
-| [A]     | [P3](https://nobodyteam.com/archive/proposals/proposalsarchive/P4.pdf) | ["Financial Redaction Justification Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P4.pdf) |
+| [A]     | [P4](https://nobodyteam.com/archive/proposals/proposalsarchive/P4.pdf) | ["Financial Redaction Justification Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P4.pdf) |
