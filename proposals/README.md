@@ -1,5 +1,4 @@
 # Proposals
-## [Return To Archive](https://nobodyteam.com/archive)
 
 # What are Proposals?
 ## Proposals are NOBODY's way to document its operational practices publicly for the sake of transparency. All Proposals follow the same easy-to-understand template.
