@@ -11,6 +11,7 @@
 ### [I] = In Review
 
 # Proposal List
+
 | Status| ID  | Name  |
 | :---: |:---:| :---:|
 | [A]     | [P0](https://nobodyteam.com/archive/proposals/proposalsarchive/P0.pdf) | ["Proposal Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P0.pdf) |
