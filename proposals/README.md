@@ -11,9 +11,4 @@
 ### [I] = In Review
 
 # Proposal List
-```
-*LINKS WILL BE ADDED LATER*
-P0 - "Proposal Proposal" [A]
-P1 - "Proposal Ruleset Proposal" [A]
-P2 - "Operational Transparency Proposal" [A]
-```
+- [A] [P0](https://nobodyteam.com/archive/proposals/proposalsarchive/P0.pdf) - "Proposal Proposal"
