@@ -17,7 +17,7 @@
 > Proposal additions have have a small delay between being submitted and appearing in the archive. If you were expecting a new proposal to be present, it should appear in about 30 minutes to two hours.
 
 | Status| ID  | Name  |
-| :---: |:---:| :---:|
+| :---: |:---:| -----|
 | [A]     | [P0](https://nobodyteam.com/archive/proposals/proposalsarchive/P0.pdf) | ["Proposal Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P0.pdf) |
 | [A]     | [P1](https://nobodyteam.com/archive/proposals/proposalsarchive/P1.pdf) | ["Proposal Ruleset Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P1.pdf) |
 | [A]     | [P2](https://nobodyteam.com/archive/proposals/proposalsarchive/P2.pdf) | ["Operational Transparency Proposal"](https://nobodyteam.com/archive/proposals/proposalsarchive/P2.pdf) |
